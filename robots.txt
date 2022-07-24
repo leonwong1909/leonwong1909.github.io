@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://leonwong1909.github.io/sitemap.xml
